@@ -1,9 +1,10 @@
-#i'm sleepy and \n works as sould be
+#i'm sleepy and \n works as should be
 print "one\ntwo\n"
 
 print """this
 is
 a
 multiple
-lines print
+lines 
+print
 """

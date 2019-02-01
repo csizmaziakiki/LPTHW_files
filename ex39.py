@@ -5,7 +5,7 @@ print stuff['age']
 for key, value in stuff.items():
 	print "%s: %s" % (key, value)
 
-del stuff[name]
+del stuff['name']
 #safely get key that maybe not exists, from value (none is default)
 skey = stuff.get('City', None)
 
